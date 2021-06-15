@@ -1,3 +1,3 @@
-module makesite
+module staticGen
 
 go 1.13
